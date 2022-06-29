@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996349397246",
+    "project_id": "instamay",
+    "storage_bucket": "instamay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996349397246:android:eca7a2d5c5f98017efbdaf",
+        "android_client_info": {
+          "package_name": "com.bana.instamay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996349397246-0cpdccbs40ho8hptjg2ut7lre5apv86u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoYzhcPJNmnn4N9IJPd0d2bPVerihrtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996349397246-0cpdccbs40ho8hptjg2ut7lre5apv86u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
